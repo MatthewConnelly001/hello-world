@@ -1,2 +1,3 @@
 # hello-world
-Just starting a new repo on Github
+Just starting a new repo on Github.
+Yep it sure is...
